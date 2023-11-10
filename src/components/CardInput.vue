@@ -107,9 +107,9 @@ input{
 }
 .number-input{
   width: 100%;
-  background: rgb(255, 208, 120) url('../assets/img/visa.png') right  no-repeat;
+  background: rgb(255, 208, 120);
 }
 .code-input{
-  background:  #ffffff url('../assets/img/question.png') right /16px no-repeat;
+  background:  #ffffff ;
 }
 </style>
